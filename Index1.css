@@ -1,0 +1,1951 @@
+.title{padding: 18px 10px;
+    background-color: black;
+  }
+  h1{color: #ffffff;
+  
+   font-size: 23px;
+   position: absolute;
+   top: -10px;
+   left: 20px;}
+
+.hover{position: relative;
+top: -30px;}
+  
+  ul li {display: inline-block;
+         margin-right: 15px;
+         transition: all 0.3s ease-in-out;
+  }
+  
+  ul li:hover .menu {height: 300px;
+  }
+  
+  ul li:hover a {color: #3450a4;
+  }
+  
+  ul li:hover a::before {visibility:visible;
+                         transform: scale(1, 1);
+  }
+  
+  ul li .menu {overflow: hidden;
+               position: absolute;
+               left: 0;
+               width: 100%;
+               background-color: #ffffff;
+               height: 0;
+               line-height: 40px;
+               box-sizing: border-box;
+               transition: height 0.3s ease-in-out;
+               transition-delay: 0.1s;
+  }
+  
+  ul li .menu a {color: #aeaeae;
+                 margin-top: 20px;
+                 font-size: 16px;
+  }
+  
+  ul li .menu a:hover {color: #fff;
+                       text-decoration: underline;
+  }
+  
+  
+  ul li h2{color: #999;
+           display: block;
+           padding: 0 9px 0  9px;
+           margin: 0 0 10px;
+           text-decoration: none;
+           position: relative;
+  }
+  
+  a{text-decoration: none;
+    color: #999;
+  }
+  
+  h2  a::before {content: "";
+                 position: absolute;
+                 width: 100%;
+                 height: 3px;
+                 bottom: -10px;
+                 left: 0px;
+                 background-color: #b12a2a;
+                 transition: all 0.2s ease-in-out;
+                 transform: scale(0, 0);
+                 visibility: hidden;
+  }
+  
+      
+  
+  h2{font-size: 17px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+     
+  
+  .image1{position:relative;
+          left: 358px;
+          top: 27px;
+  }
+  
+  .image1:hover{border-radius: 5px;
+                box-shadow: 1px 1px 5px #7b7a7a;
+  }
+  
+  .image2{position: relative;
+          left: 342px;
+          top: 27px;
+  }
+  
+  .image2:hover{border-radius: 5px;
+                box-shadow: 1px 1px 5px #7b7a7a;
+  }
+          
+         
+  .image3{position: relative;
+          left: 326px;
+          top: 27px;
+  }
+  
+  .image3:hover{border-radius: 5px;
+                box-shadow: 1px 1px 5px #7b7a7a;
+  }
+  
+  .image4{position: relative;
+          left: 309px;
+          top: 27px;
+  }
+  
+  .image4:hover{border-radius: 5px;
+                box-shadow: 1px 1px 5px #7b7a7a;
+  }
+  
+  .image5{position:relative;
+          left: 293px;
+          top: 27px;
+  }
+  
+  .image5:hover{border-radius: 5px;
+                box-shadow: 1px 1px 5px #7b7a7a;
+  }
+  
+  hr{border-color: #b7b3b388;
+     position: relative;
+     margin-right: 60px;
+     top: 25px;
+  }
+            
+  
+  .image6{position: relative;
+          top: 27px;
+          left: 565px ;
+  }
+  
+  .image6:hover{border-radius: 5px;
+                box-shadow: 1px 1px 5px #7b7a7a;
+  }
+  
+  .image7{position: relative;
+          top: 27px;
+          left: 550px;
+  }
+  
+  .image7:hover{border-radius: 5px;
+                box-shadow: 1px 1px 5px #7b7a7a;
+  }
+  
+   .image8{position: relative;
+          top: 27px;
+          left: 565px ;
+  }
+          
+  .image8:hover{border-radius: 5px;
+                box-shadow: 1px 1px 5px #7b7a7a;
+  }
+   
+  .image9{position: relative;
+          top: 27px;
+          left: 550px;
+  }
+  
+  .image9:hover{border-radius: 5px;
+                box-shadow: 1px 1px 5px #7b7a7a;
+  }
+  
+  .image10{position: relative;
+           top: 27px;
+           left: 650px;
+  }
+  
+  .image10:hover{border-radius: 5px;
+                 box-shadow: 1px 1px 5px #7b7a7a;
+  }
+  
+  .image11{position: relative;
+            top: 27px;
+            left: 565px ;
+  }
+   
+  .image11:hover{border-radius: 5px;
+                 box-shadow: 1px 1px 5px #7b7a7a;
+  }
+  
+   .image12{position: relative;
+           top: 27px;
+            left: 550px;}
+  
+            .image12:hover{border-radius: 5px;
+              box-shadow: 1px 1px 5px #7b7a7a;
+              }
+  
+   .image13{position: relative;
+              left: 445px ;
+              top: 27px;}
+  
+              .image13:hover{border-radius: 5px;
+                box-shadow: 1px 1px 5px #7b7a7a;
+                }
+      
+   .image14{position: relative;
+              left: 428px;
+              top: 27px;}
+  
+              .image14:hover{border-radius: 5px;
+                box-shadow: 1px 1px 5px #7b7a7a;
+                }
+      
+   .image15{position: relative;
+              left: 411px;
+              top: 27px;}
+  
+              .image15:hover{border-radius: 5px;
+                box-shadow: 1px 1px 5px #7b7a7a;
+                }
+  
+            .text{ font-size: 18px;
+              font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+              color:#000000;
+              position: absolute;
+              left: 350px;
+              top: 200px;
+            } 
+            .text:hover{color: #fa0000bc ;}
+  
+            .text1{font-size: 18px;
+              font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+              color: #000000;
+              position: absolute;
+              left:529px;
+               top: 200px;}
+  
+              .text1:hover{color: #fa0000bc ;}
+  
+            .text2{font-size: 18px;
+              font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+              color: #000000;
+              position: absolute;
+              left: 705px;
+              top: 200px;
+             list-style:circle;}
+  
+              .text2:hover{color: #fa0000bc ;}
+  
+            .text3{font-size: 18px;
+              font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+              color: #000000;
+              position: absolute;
+              left: 830px;
+              top: 200px;}
+  
+              .text3:hover{color: #fa0000bc ;}
+  
+  
+            .text4{font-size: 18px;
+              font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+              color: #000000;
+              position: absolute;
+              left: 1050px;
+              top: 200px;}
+  
+              .text4:hover{color: #fa0000bc ;}
+  
+             .text5{font-size: 18px;
+              font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+              color: #000000;
+              position: absolute;
+              left: 590px;
+              top: 200px;}
+  
+              .text5:hover{color: #fa0000bc ;}
+  
+              .text6{font-size: 18px;
+                font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                color: #000000;
+                position: absolute;
+                left: 780px;
+                top: 200px;}
+  
+                .text6:hover{color: #fa0000bc ;}
+  
+              .text7{font-size: 18px;
+                font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                color: #000000;
+                position: absolute;
+                left: 620px;
+                top: 200px;}
+  
+              .text7:hover{color: #fa0000bc ;}
+  
+              .text8{font-size: 18px;
+                font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                color: #000000;
+                position: absolute;
+                left: 760px;
+                top: 200px;}
+  
+              .text8:hover{color: #fa0000bc ;}
+  
+  .text9{font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+    position: absolute;
+    left: 368px;
+    top: 200px;
+  }
+  
+  .text9:hover{color: #fa0000bc ;}
+  
+  .text10{font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+    position: absolute;
+    left: 525px;
+    top: 200px;
+  }
+  
+  .text10:hover{color: #fa0000bc ;}
+  
+  .text11{font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+    position: absolute;
+    left: 705px;
+    top: 200px;
+  }
+  
+  .text11:hover{color: #fa0000bc ;}
+  
+  .text12{font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+    position: absolute;
+    left: 840px;
+    top: 200px;
+  }
+  
+  .text12:hover{color: #fa0000bc ;}
+  
+  .text13{font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+    position: absolute;
+    left: 995px;
+    top: 200px;
+  }
+  
+  .text13:hover{color: #fa0000bc ;}
+  
+  .text14{font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+    position: absolute;
+    left: 500px;
+    top: 200px;}
+  
+  .text14:hover{color: #fa0000bc ;}
+  
+  .text15{font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+    position: absolute;
+    left: 603px;
+    top: 200px;}
+  
+  .text15:hover{color: #fa0000bc ;}
+  
+  .text16{font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+    position: absolute;
+    left: 690px;
+    top: 200px;}
+  
+  .text16:hover{color: #fa0000bc ;}
+  
+  .text17{font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+    position: absolute;
+    left: 840px;
+    top: 200px;}
+  
+    .text17:hover{color: #fa0000bc ;}
+  
+  .text18{font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+    position: absolute;
+    left: 940px;
+    top: 200px;}
+  
+    .text18:hover{color: #fa0000bc ;}
+  
+  .text19{font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+    position: absolute;
+    left: 30px;
+    top: 200px;}
+  
+    .text19:hover{color: #fa0000bc ;}
+  
+  .text20{font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+    position: absolute;
+    left: 300px;
+    top: 200px;}
+  
+    .text20:hover{color: #fa0000bc ;}
+  
+  .text21{font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+    position: absolute;
+    left: 570px;
+    top: 200px;}
+  
+    .text21:hover{color: #fa0000bc ;}
+  
+  .text22{font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+    position: absolute;
+    left: 890px;
+    top: 200px;}
+  
+    .text22:hover{color: #fa0000bc ;}
+  
+  .text23{font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+    position: absolute;
+    left: 1150px;
+    top: 200px;}
+  
+    .text23:hover{color: #fa0000bc ;}
+  
+  .text24{font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+    position: absolute;
+    left: 1350px;
+    top: 200px;}
+  
+    .text24:hover{color: #fa0000bc ;}
+
+    .text25{font-size: 20px;
+        -webkit-text-fill-color: #000000;
+        position: absolute;
+        top: 115px;
+        left: 500px;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+        
+        .text25:hover{border-radius: 25px;
+          background-color: rgb(237, 240, 243);
+           position: absolute;
+           }
+        
+        .text26{font-size: 20px;
+          -webkit-text-fill-color: #000000;
+          position: absolute;
+          top: 115px;
+          left: 700px;
+          font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+        
+          .text26:hover{border-radius: 25px;
+            background-color: rgb(237, 240, 243);
+             position: absolute;}
+        
+        .text27{font-size: 20px;
+          -webkit-text-fill-color: #000000;
+          position: absolute;
+          top: 115px;
+          left: 955px;
+          font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+        
+        .text27:hover{border-radius: 25px;
+          background-color: rgb(237, 240, 243);
+           position: absolute;}
+        
+        .text28{font-size: 20px;
+          -webkit-text-fill-color: #000000;
+          position: absolute;
+          top: 115px;
+          left: 1115px;
+          font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        }
+        .text28:hover{border-radius: 25px;
+          background-color: rgb(237, 240, 243);
+           position: absolute;}
+
+.image{position: absolute;
+top: 170px;
+left: 0px;}
+
+.image41{position: absolute;
+top: 300px;
+left: 400px;
+}
+
+.text54{position: absolute;
+top: 700px;
+left: 400px;
+font-size: 30px;
+color: #afafaf;}
+
+.img4 .hover4{cursor: pointer;}
+
+.img4 .hover4 .faceeee{width: 350px;
+height: 200px;
+transition: 0.5s;
+}
+
+.text55{font-size: 25px;
+position:absolute ;
+top: 100px;
+color: white;}
+
+.text56{position:absolute ;
+    top: 156px;
+    left: 68px;}
+
+.img4 .hover4 .faceeee.face5{background-color: #333;
+position: relative;
+display: flex;
+justify-content: center;
+align-items: center;
+transform: translateY(100px);
+z-index: 1;}
+
+.img4 .hover4:hover .faceeee.face5{transform: translateY(0);
+}
+
+.img4 .hover4 .faceeee.face5 .content5{
+transition: 0.5s;
+}
+
+.img4 .hover4 .faceeee.face5 .content5 .image42{
+    border-radius: 20px;
+    max-width: 470px;
+    height: 250px;
+}
+
+.img4{position: absolute;
+left: 100px;
+top: 1000px;}
+
+.img4 .hover4 .faceeee.face6 .content5{position:relative;
+border-radius: 20px;
+background-color: rgba(1, 13, 83, 0.848);
+display: flex;
+justify-content: center;
+padding: 110px;
+margin-left:-45px ;
+margin-right:-45px ;
+box-sizing: border-box;
+box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);
+transform: translateY(-100px) ;}
+
+.text56 {
+    position: absolute;
+    border: none;
+    color: #000000;
+    width: 18em;
+    height: 2em;
+    line-height: 2em;
+    text-align: center;
+    background: linear-gradient(90deg, #ffffff, #858585, #c2c2c2, #ffffff);
+    background-size: 300%;
+    border-radius: 30px;
+    text-transform: uppercase;
+    cursor: pointer;
+    z-index: 1;
+  }
+  .text56:hover {
+    animation: animation 8s linear infinite;
+    border: none;
+  }
+  @keyframes animation {
+    0% {
+      background-position: 0%;
+    }
+    100% {
+      background-position: 400%;
+    }
+  }
+  .text56:before {
+    content: "";
+    position: absolute;
+    top: -5px;
+    left: -5px;
+    right: -5px;
+    bottom: -5px;
+    z-index: -1;
+    background: linear-gradient(90deg,  #ffffff, #858585, #c2c2c2, #ffffff);
+    background-size: 400%;
+    border-radius: 35px;
+    transition: 1s;
+  }
+  .text56:hover::before {
+    filter: blur(20px);
+  }
+
+  .img5 .hover5{cursor: pointer;}
+
+.img5 .hover5 .faceeeee{width: 350px;
+height: 200px;
+transition: 0.5s;
+}
+
+.text57{font-size: 25px;
+position:absolute ;
+top: 100px;
+color: white;}
+
+.text58{position:absolute ;
+    top: 156px;
+    left: 68px;}
+
+.img5 .hover5 .faceeeee.face6{background-color: #333;
+position: relative;
+display: flex;
+justify-content: center;
+align-items: center;
+transform: translateY(100px);
+z-index: 1;}
+
+.img5 .hover5:hover .faceeeee.face6{transform: translateY(0);
+}
+
+.img5 .hover5 .faceeeee.face5 .content6{
+transition: 0.5s;
+}
+
+.img5 .hover5 .faceeeee.face6 .content6 .image44{
+    border-radius: 20px;
+    max-width: 470px;
+    height: 250px;
+}
+
+.img5{position: absolute;
+left: 650px;
+top: 1000px;}
+
+.img5 .hover5 .faceeeee.face7 .content6{position:relative;
+border-radius: 20px;
+background-color: rgba(1, 13, 83, 0.848);
+display: flex;
+justify-content: center;
+padding: 110px;
+margin-left:-45px ;
+margin-right:-45px ;
+box-sizing: border-box;
+box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);
+transform: translateY(-100px) ;}
+
+.text58 {
+    position: absolute;
+    border: none;
+    color: #000000;
+    width: 18em;
+    height: 2em;
+    line-height: 2em;
+    text-align: center;
+    background: linear-gradient(90deg, #ffffff, #858585, #c2c2c2, #ffffff);
+    background-size: 300%;
+    border-radius: 30px;
+    text-transform: uppercase;
+    cursor: pointer;
+    z-index: 1;
+  }
+  .text58:hover {
+    animation: animation 8s linear infinite;
+    border: none;
+  }
+  @keyframes animation {
+    0% {
+      background-position: 0%;
+    }
+    100% {
+      background-position: 400%;
+    }
+  }
+  .text58:before {
+    content: "";
+    position: absolute;
+    top: -5px;
+    left: -5px;
+    right: -5px;
+    bottom: -5px;
+    z-index: -1;
+    background: linear-gradient(90deg,  #ffffff, #858585, #c2c2c2, #ffffff);
+    background-size: 400%;
+    border-radius: 35px;
+    transition: 1s;
+  }
+  .text58:hover::before {
+    filter: blur(20px);
+  }
+
+  .img6 .hover6{cursor: pointer;}
+
+  .img6 .hover6 .faceeeeee{width: 350px;
+  height: 200px;
+  transition: 0.5s;
+  }
+  
+  .text59{font-size: 25px;
+  position:absolute ;
+  top: 100px;
+  color: white;}
+  
+  .text60{position:absolute ;
+      top: 156px;
+      left: 65px;}
+  
+  .img6 .hover6 .faceeeeee.face7{background-color: #333;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: translateY(100px);
+  z-index: 1;}
+  
+  .img6 .hover6:hover .faceeeeee.face7{transform: translateY(0);
+  }
+  
+  .img6 .hover6 .faceeeeee.face5 .content7{
+  transition: 0.5s;
+  }
+  
+  .img6 .hover6 .faceeeeee.face7 .content7 .image45{
+      border-radius: 20px;
+      max-width: 470px;
+      height: 250px;
+  }
+  
+  .img6{position: absolute;
+  left: 1190px;
+  top: 1000px;}
+  
+  .img6 .hover6 .faceeeeee.face8 .content7{position:relative;
+  border-radius: 20px;
+  background-color: rgba(1, 13, 83, 0.848);
+  display: flex;
+  justify-content: center;
+  padding: 110px;
+  margin-left:-45px ;
+  margin-right:-45px ;
+  box-sizing: border-box;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);
+  transform: translateY(-100px) ;}
+  
+  .text60 {
+      position: absolute;
+      border: none;
+      color: #000000;
+      width: 20em;
+      height: 2em;
+      line-height: 2em;
+      text-align: center;
+      background: linear-gradient(90deg, #ffffff, #858585, #c2c2c2, #ffffff);
+      background-size: 300%;
+      border-radius: 30px;
+      text-transform: uppercase;
+      cursor: pointer;
+      z-index: 1;
+    }
+    .text60:hover {
+      animation: animation 8s linear infinite;
+      border: none;
+    }
+    @keyframes animation {
+      0% {
+        background-position: 0%;
+      }
+      100% {
+        background-position: 400%;
+      }
+    }
+    .text60:before {
+      content: "";
+      position: absolute;
+      top: -5px;
+      left: -5px;
+      right: -5px;
+      bottom: -5px;
+      z-index: -1;
+      background: linear-gradient(90deg,  #ffffff, #858585, #c2c2c2, #ffffff);
+      background-size: 400%;
+      border-radius: 35px;
+      transition: 1s;
+    }
+    .text60:hover::before {
+      filter: blur(20px);
+    }
+
+.text61{position: absolute;
+top: 1400px;
+color: white;}
+
+.image46{position: absolute;
+top: 1470px;
+left: 0px;}
+
+.text62{position: absolute;
+top: 1500px;
+left: 750px;
+color: white;
+font-size: 20px;}
+
+.text63{position: absolute;
+top: 1520px;
+left: 510px;
+font-size: 45px;
+color: white;}
+
+.text64{
+  position: absolute;
+  top: 1620px;
+  left: 200px;
+  font-size: 30px;
+  color: #afafaf;}
+  
+.button5{font-family: "Roboto", sans-serif;
+font-size: 18px;
+font-weight: bold;
+background: #e25401;
+width: 160px;
+padding: 20px;
+text-align: center;
+text-decoration: none;
+text-transform: uppercase;
+color: white;
+border-radius: 5px;
+cursor: pointer;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+-webkit-transition-duration: 0.3s;
+transition-duration: 0.3s;
+-webkit-transition-property: box-shadow, transform;
+transition-property: box-shadow, transform;
+position: absolute;
+top: 1800px;
+left: 700px;
+
+}
+
+.button5:hover, .button5:focus, .button5:active{box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+-webkit-transform: scale(1.1);
+transform: scale(1.1);}
+
+.video{position: absolute;
+top: 1900px;
+left: 500px;}
+
+.text65{position: absolute;
+left: 695px;
+top: 2400px;
+font-size: 40px;
+color: white;}
+
+.image47 {position: absolute;
+top: 2550px;
+left:70px;}
+
+.text66 {position: absolute;
+top: 2800px;
+left: 100px;
+font-size: 25px;
+color: #ffffff;}
+
+.text69{position: absolute;
+  top: 2880px;
+  left: 50px ;
+  color: white;
+  font-size: 15px;
+  font-family:'Courier New', Courier, monospace;}
+
+.image48{position: absolute;
+  top: 2550px;
+  left: 584px;}
+
+.text67{position: absolute;
+  top: 2800px;
+  left: 630px;
+  color: #ffffff;
+  font-size: 25px;}
+
+.text70{position: absolute;
+  top: 2880px;
+  left: 620px ;
+  color: white;
+  font-size: 15px;
+  font-family:'Courier New', Courier, monospace;}
+
+.image49{position: absolute;
+  top: 2550px;
+  left: 1100px;}
+
+.text68{position: absolute;
+  top: 2800px;
+  left: 1200px;
+  color: #ffffff;
+  font-size:25px;}
+
+.text71{position: absolute;
+  top: 2880px;
+  left: 1160px ;
+  color: white;
+  font-size: 15px;
+  font-family:'Courier New', Courier, monospace;}
+
+.text72{position: absolute;
+top: 3090px;
+left:600px;
+color: white;
+font-size: 36px;}
+
+.text73{position: absolute;
+top: 3250px;
+left: 410px;
+color: white;
+font-family:'Courier New', Courier, monospace;}
+
+
+.picture {
+  width: 200px;
+  height: 300px;
+  perspective: 800px;
+  position: absolute;
+  top: 3400px;
+  left: 400px ;
+}
+
+.picture:hover > .effect {
+  cursor: pointer;
+  transform: rotateY(180deg);
+}
+
+.effect {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  transition: transform 1500ms;
+  transform-style: preserve-3d;
+}
+
+.front,
+.back {
+  height: 100%;
+  width: 100%;
+  border-radius: 1rem;
+  box-shadow: 0 0 5px 2px rgba(50, 50, 50, 0.25);
+  position: absolute;
+  backface-visibility: hidden;
+}
+
+.front {
+  background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/marvels-spider-man-amazing-spider-man-comic-1963-issue-194-ps4-us-04oct18?$1200px$);
+  background-size: cover;
+}
+
+ .text74{position: absolute;
+  top: 10px;}
+
+ .text75{position: absolute;
+top: 100px;}
+
+.back {
+  background-color: #dcdcdc;
+  transform: rotateY(180deg);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+}
+
+.picture1 {
+  width: 200px;
+  height: 300px;
+  perspective: 800px;
+  position: absolute;
+  top: 3400px;
+  left: 625px ;
+}
+
+.picture1:hover > .effect1 {
+  cursor: pointer;
+  transform: rotateY(180deg);
+}
+
+.effect1 {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  transition: transform 1500ms;
+  transform-style: preserve-3d;
+}
+
+.front1,
+.back1 {
+  height: 100%;
+  width: 100%;
+  border-radius: 1rem;
+  box-shadow: 0 0 5px 2px rgba(50, 50, 50, 0.25);
+  position: absolute;
+  backface-visibility: hidden;
+}
+
+.front1 {
+  background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/marvels-spider-man-amazing-spider-man-comic-1963-issue-226-ps4-us-04oct18?$1600px$);
+  background-size: cover;
+}
+
+ .text76{position: absolute;
+  top: 10px;}
+
+ .text77{position: absolute;
+top: 100px;}
+
+.back1 {
+  background-color: #dcdcdc;
+  transform: rotateY(180deg);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+}
+
+
+.picture2 {
+  width: 200px;
+  height: 300px;
+  perspective: 800px;
+  position: absolute;
+  top: 3400px;
+  left: 850px ;
+}
+
+.picture2:hover > .effect2 {
+  cursor: pointer;
+  transform: rotateY(180deg);
+}
+
+.effect2 {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  transition: transform 1500ms;
+  transform-style: preserve-3d;
+}
+
+.front2,
+.back2 {
+  height: 100%;
+  width: 100%;
+  border-radius: 1rem;
+  box-shadow: 0 0 5px 2px rgba(50, 50, 50, 0.25);
+  position: absolute;
+  backface-visibility: hidden;
+}
+
+.front2 {
+  background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/marvels-spider-man-marvel-knights-spider-man-comic-2004-issue-4-ps4-us-04oct18?$1200px$);
+  background-size: cover;
+}
+
+ .text78{position: absolute;
+  top: 10px;}
+
+ .text79{position: absolute;
+top: 100px;}
+
+.back2 {
+  background-color: #dcdcdc;
+  transform: rotateY(180deg);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+}
+
+.picture3 {
+  width: 200px;
+  height: 300px;
+  perspective: 800px;
+  position: absolute;
+  top: 3400px;
+  left: 1075px ;
+}
+
+.picture3:hover > .effect3 {
+  cursor: pointer;
+  transform: rotateY(180deg);
+}
+
+.effect3 {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  transition: transform 1500ms;
+  transform-style: preserve-3d;
+}
+
+.front3,
+.back3 {
+  height: 100%;
+  width: 100%;
+  border-radius: 1rem;
+  box-shadow: 0 0 5px 2px rgba(50, 50, 50, 0.25);
+  position: absolute;
+  backface-visibility: hidden;
+}
+
+.front3 {
+  background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/marvels-spider-man-marvel-knights-spider-man-comic-2004-issue-10-ps4-us-04oct18?$1200px$);
+  background-size: cover;
+}
+
+ .text80{position: absolute;
+  top: 10px;}
+
+ .text81{position: absolute;
+top: 100px;}
+
+.back3 {
+  background-color: #dcdcdc;
+  transform: rotateY(180deg);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+}
+
+.button6{font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  background: #9c7f6e;
+  width: 160px;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: box-shadow, transform;
+  transition-property: box-shadow, transform;
+  position: absolute;
+  top: 3900px;
+  left: 700px;
+  
+  }
+  
+  .button6:hover, .button6:focus, .button6:active{box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);}
+
+  .image54{position:absolute;
+   top:4060px;
+   left: 700px;}
+
+
+
+ .image50{position: absolute;
+  top: 4180px;
+  left: 0px;}
+
+
+  .text82{position: absolute;
+    top: 4260px;
+    left: 750px;
+    color: white;
+    font-size: 20px;}
+
+  .text83{position: absolute;
+    top: 4290px;
+    left: 510px;
+    font-size: 45px;
+    color: white;}
+
+.text84{position: absolute;
+  top: 4400px;
+  left: 200px;
+  font-size: 30px;
+  color: #afafaf;}
+
+  .button7{font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    background: #e25401;
+    width: 160px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: box-shadow, transform;
+    transition-property: box-shadow, transform;
+    position: absolute;
+    top: 4595px;
+    left: 700px;
+    
+    }
+    
+    .button7:hover, .button7:focus, .button7:active{box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);}
+
+    .video1{position: absolute;
+      top: 4690px;
+      left: 500px;}
+
+    .text85{position: absolute;
+      left: 670px;
+      top: 5200px;
+      font-size: 40px;
+      color: white;}
+
+      .image51{position: absolute;
+        top: 5350px;
+        left:70px;}
+
+    .text86{position: absolute;
+        top: 5600px;
+        left: 150px;
+        font-size: 25px;
+        color: #ffffff;}
+
+  .text89{position: absolute;
+    top: 5680px;
+    left: 90px ;
+    color: white;
+    font-size: 15px;
+    font-family:'Courier New', Courier, monospace;}
+
+  .image52{position: absolute;
+    top: 5350px;
+    left: 584px;}
+
+  .text87{position: absolute;
+    top: 5600px;
+    left: 630px;
+    color: #ffffff;
+    font-size: 25px;}
+
+  .text90{position: absolute;
+    top: 5680px;
+    left: 620px ;
+    color: white;
+    font-size: 15px;
+    font-family:'Courier New', Courier, monospace;}
+
+    .image53{position: absolute;
+      top: 5350px;
+      left: 1100px;}
+
+  .text88{position: absolute;
+    top: 5600px;
+    left: 1200px;
+    color: #ffffff;
+    font-size:25px;}
+
+  .text91{position: absolute;
+    top: 5680px;
+    left: 1160px ;
+    color: white;
+    font-size: 15px;
+    font-family:'Courier New', Courier, monospace;}
+
+  .text92{position: absolute;
+    top: 5950px;
+    left:600px;
+    color: white;
+    font-size: 36px;}
+
+.text93{position: absolute;
+  top: 6100px;
+  left: 200px;
+  color: white;
+  font-family:'Courier New', Courier, monospace;}
+
+  .picture4 {
+    width: 200px;
+    height: 300px;
+    perspective: 800px;
+    position: absolute;
+    top: 6300px;
+    left: 400px ;
+  }
+  
+  .picture4:hover > .effect4{
+    cursor: pointer;
+    transform: rotateY(180deg);
+  }
+  
+  .effect4 {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    transition: transform 1500ms;
+    transform-style: preserve-3d;
+  }
+  
+  .front4,
+  .back4 {
+    height: 100%;
+    width: 100%;
+    border-radius: 1rem;
+    box-shadow: 0 0 5px 2px rgba(50, 50, 50, 0.25);
+    position: absolute;
+    backface-visibility: hidden;
+  }
+  
+  .front4 {
+    background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/marvels-spider-man-the-city-that-never-sleeps-amazing-spider-man-130-cover-art-01-ps4-us-25oct18?$1600px$);
+    background-size: cover;
+  }
+  
+   .text94{position: absolute;
+    top: 10px;}
+  
+   .text95{position: absolute;
+  top: 80px;}
+  
+  .back4 {
+    background-color: #dcdcdc;
+    transform: rotateY(180deg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+  }
+  
+    
+  
+  .picture5{ width: 200px;
+    height: 300px;
+    perspective: 800px;
+    position: absolute;
+    top: 6300px;
+    left: 625px ;}
+  
+  .picture5:hover > .effect5{
+    cursor: pointer;
+    transform: rotateY(180deg);
+  }
+  
+  .effect5 {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    transition: transform 1500ms;
+    transform-style: preserve-3d;
+  }
+  
+  .front5,
+  .back5 {
+    height: 100%;
+    width: 100%;
+    border-radius: 1rem;
+    box-shadow: 0 0 5px 2px rgba(50, 50, 50, 0.25);
+    position: absolute;
+    backface-visibility: hidden;
+  }
+  
+  .front5 {
+    background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/marvels-spider-man-amazing-spider-man-comic-1963-issue-226-ps4-us-04oct18?$1200px$);
+    background-size: cover;
+  }
+  
+   .text96{position: absolute;
+    top: 10px;}
+  
+   .text97{position: absolute;
+  top: 80px;}
+  
+  .back5 {
+    background-color: #dcdcdc;
+    transform: rotateY(180deg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+  }
+
+  .picture6 {
+    width: 200px;
+    height: 300px;
+    perspective: 800px;
+    position: absolute;
+    top: 6300px;
+    left: 850px ;
+  }
+  
+  .picture6:hover > .effect6{
+    cursor: pointer;
+    transform: rotateY(180deg);
+  }
+  
+  .effect6 {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    transition: transform 1500ms;
+    transform-style: preserve-3d;
+  }
+  
+  .front6,
+  .back6 {
+    height: 100%;
+    width: 100%;
+    border-radius: 1rem;
+    box-shadow: 0 0 5px 2px rgba(50, 50, 50, 0.25);
+    position: absolute;
+    backface-visibility: hidden;
+  }
+  
+  .front6 {
+    background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/marvels-spider-man-marvel-knights-spider-man-comic-2004-issue-4-ps4-us-04oct18?$1600px$);
+    background-size: cover;
+  }
+  
+   .text99{position: absolute;
+    top: 10px;}
+  
+   .text100{position: absolute;
+  top: 80px;
+  }
+  
+  .back6 {
+    background-color: #dcdcdc;
+    transform: rotateY(180deg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+  }
+
+  .picture7 {
+    width: 200px;
+    height: 300px;
+    perspective: 800px;
+    position: absolute;
+    top: 6300px;
+    left: 1075px ;
+  }
+  
+  .picture7:hover > .effect7 {
+    cursor: pointer;
+    transform: rotateY(180deg);
+  }
+  
+  .effect7 {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    transition: transform 1500ms;
+    transform-style: preserve-3d;
+  }
+  
+  .front7,
+  .back7 {
+    height: 100%;
+    width: 100%;
+    border-radius: 1rem;
+    box-shadow: 0 0 5px 2px rgba(50, 50, 50, 0.25);
+    position: absolute;
+    backface-visibility: hidden;
+  }
+  
+  .front7 {
+    background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/marvels-spider-man-marvel-knights-spider-man-comic-2004-issue-10-ps4-us-04oct18?$1200px$);
+    background-size: cover;
+  }
+  
+   .text101{position: absolute;
+    top: 10px;}
+  
+   .text102{position: absolute;
+  top: 100px;}
+  
+  .back7 {
+    background-color: #dcdcdc;
+    transform: rotateY(180deg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+  }
+
+
+  .button8{font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    background: #9c7f6e;
+    width: 160px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: box-shadow, transform;
+    transition-property: box-shadow, transform;
+    position: absolute;
+    top: 6700px;
+    left: 700px;
+    
+    }
+    
+    .button8:hover, .button8:focus, .button8:active{box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);}
+
+
+  .image55{position:absolute;
+   top:6820px;
+   left: 700px;}
+
+
+  .image56{position: absolute;
+   top: 6950px;
+   left:0px;}
+
+  .text103{position: absolute;
+    top: 7020px;
+    left: 750px;
+    color: rgb(48, 48, 48);
+    font-size: 20px;}
+
+ .text104{position: absolute;
+  top: 7050px;
+  left: 510px;
+  font-size: 45px;
+  color: rgb(48, 48, 48);}
+
+.text105{position: absolute;
+  top: 7170px;
+  left: 200px;
+  font-size: 30px;
+  color: rgb(48, 48, 48);
+}
+
+.button9{font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  background: #e25401;
+  width: 160px;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: box-shadow, transform;
+  transition-property: box-shadow, transform;
+  position: absolute;
+  top: 7480px;
+  left: 700px;
+  
+  }
+  
+  .button9:hover, .button9:focus, .button9:active{box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);}
+
+
+.video2{position: absolute;
+  top: 7600px;
+  left: 500px;}
+
+.text106{position: absolute;
+  left: 670px;
+  top: 8100px;
+  font-size: 40px;
+  color:rgb(48, 48, 48);}
+
+.image57{position: absolute;
+  top: 8300px;
+  left:70px;}
+
+.text107{position: absolute;
+  top: 8550px;
+  left: 150px;
+  font-size: 25px;
+  color: rgb(48, 48, 48);}
+
+.text110{position: absolute;
+  top: 8600px;
+  left: 60px ;
+  color: rgb(48, 48, 48);
+  font-size: 15px;
+  font-family:'Courier New', Courier, monospace;}
+
+.image58{position: absolute;
+  top: 8300px;
+  left: 584px;}
+
+.text108{position: absolute;
+  top: 8550px;
+  left: 630px;
+  color:rgb(48, 48, 48);
+  font-size: 25px;}
+
+.text111{position: absolute;
+  top: 8600px;
+  left: 580px ;
+  color: rgb(48, 48, 48);
+  font-size: 15px;
+  font-family:'Courier New', Courier, monospace;}
+
+.image59{position: absolute;
+  top: 8300px;
+  left: 1100px;}
+
+.text109{position: absolute;
+  top: 8550px;
+  left: 1150px;
+  color: rgb(48, 48, 48);
+  font-size:25px;}
+
+.text112{position: absolute;
+  top: 8600px;
+  left: 1140px ;
+  color: rgb(48, 48, 48);
+  font-size: 15px;
+  font-family:'Courier New', Courier, monospace;}
+
+.text113{position: absolute;
+  top: 8790px;
+  left:510px;
+  color:rgb(48, 48, 48);
+  font-size: 36px;}
+
+.text114{position: absolute;
+  top: 8970px;
+  left: 200px;
+  color: rgb(48, 48, 48);
+  font-family:'Courier New', Courier, monospace;}
+
+  .picture8 {
+    width: 200px;
+    height: 300px;
+    perspective: 800px;
+    position: absolute;
+    top: 9100px;
+    left: 400px ;
+  }
+  
+  .picture8:hover > .effect8{
+    cursor: pointer;
+    transform: rotateY(180deg);
+  }
+  
+  .effect8 {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    transition: transform 1500ms;
+    transform-style: preserve-3d;
+  }
+  
+  .front8,
+  .back8 {
+    height: 100%;
+    width: 100%;
+    border-radius: 1rem;
+    box-shadow: 0 0 5px 2px rgba(50, 50, 50, 0.25);
+    position: absolute;
+    backface-visibility: hidden;
+  }
+  
+  .front8 {
+    background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/marvels-spider-man-amazing-spider-man-comic-1963-issue-279-ps4-us-13nov18?$1200px$);
+    background-size: cover;
+  }
+  
+   .text115{position: absolute;
+    top: 10px;}
+  
+   .text116{position: absolute;
+  top: 80px;}
+  
+  .back8 {
+    background-color: #dcdcdc;
+    transform: rotateY(180deg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+  }
+
+  .picture9{ width: 200px;
+    height: 300px;
+    perspective: 800px;
+    position: absolute;
+    top: 9100px;
+    left: 625px ;}
+  
+  .picture9:hover > .effect9{
+    cursor: pointer;
+    transform: rotateY(180deg);
+  }
+  
+  .effect9 {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    transition: transform 1500ms;
+    transform-style: preserve-3d;
+  }
+  
+  .front9,
+  .back9 {
+    height: 100%;
+    width: 100%;
+    border-radius: 1rem;
+    box-shadow: 0 0 5px 2px rgba(50, 50, 50, 0.25);
+    position: absolute;
+    backface-visibility: hidden;
+  }
+  
+  .front9 {
+    background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/marvels-spider-man-silver-sable-and-the-wild-pack-comic-1992-issue-194-ps4-us-13nov18?$1200px$);
+    background-size: cover;
+  }
+  
+   .text117{position: absolute;
+    top: 10px;}
+  
+   .text118{position: absolute;
+  top: 80px;}
+  
+  .back9 {
+    background-color: #dcdcdc;
+    transform: rotateY(180deg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+  }
+
+  .picture10 {
+    width: 200px;
+    height: 300px;
+    perspective: 800px;
+    position: absolute;
+    top: 9100px;
+    left: 850px ;
+  }
+  
+  .picture10:hover > .effect10{
+    cursor: pointer;
+    transform: rotateY(180deg);
+  }
+  
+  .effect10{
+    height: 100%;
+    width: 100%;
+    position: relative;
+    transition: transform 1500ms;
+    transform-style: preserve-3d;
+  }
+  
+  .front10,
+  .back10 {
+    height: 100%;
+    width: 100%;
+    border-radius: 1rem;
+    box-shadow: 0 0 5px 2px rgba(50, 50, 50, 0.25);
+    position: absolute;
+    backface-visibility: hidden;
+  }
+  
+  .front10 {
+    background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/marvels-spider-man-amazing-spider-man-comic-1999-issue-682-ps4-us-13nov18?$1200px$);
+    background-size: cover;
+  }
+  
+   .text119{position: absolute;
+    top: 10px;}
+  
+   .text120{position: absolute;
+  top: 80px;
+  }
+  
+  .back10 {
+    background-color: #dcdcdc;
+    transform: rotateY(180deg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+  }
+
+  .picture11 {
+    width: 200px;
+    height: 300px;
+    perspective: 800px;
+    position: absolute;
+    top: 9100px;
+    left: 1075px ;
+  }
+  
+  .picture11:hover > .effect11 {
+    cursor: pointer;
+    transform: rotateY(180deg);
+  }
+  
+  .effect11 {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    transition: transform 1500ms;
+    transform-style: preserve-3d;
+  }
+  
+  .front11,
+  .back11{
+    height: 100%;
+    width: 100%;
+    border-radius: 1rem;
+    box-shadow: 0 0 5px 2px rgba(50, 50, 50, 0.25);
+    position: absolute;
+    backface-visibility: hidden;
+  }
+  
+  .front11{
+    background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/marvels-spider-man-amazing-spider-man-comic-2015-issue-15-ps4-us-13nov18?$1200px$);
+    background-size: cover;
+  }
+  
+   .text121{position: absolute;
+    top: 10px;}
+  
+   .text122{position: absolute;
+  top: 100px;}
+  
+  .back11 {
+    background-color: #dcdcdc;
+    transform: rotateY(180deg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+  }
+
+  .button10{font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    background: #9c7f6e;
+    width: 160px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: box-shadow, transform;
+    transition-property: box-shadow, transform;
+    position: absolute;
+    top: 9470px;
+    left: 700px;
+    
+    }
+    
+    .button10:hover, .button10:focus, .button10:active{box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);}
+
+
+    .image60{position:absolute;
+      top:9570px;
+      left: 700px;}
+   
+
+  
+
+        
+
+
+
+  
+  
+
+  
+     
+
+
+
+  
+  
+
+  
+
+        
+
+
+
+  
+  
+
+  
+     
+
+
+
+  
+  
+
+  
