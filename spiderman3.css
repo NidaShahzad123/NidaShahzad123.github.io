@@ -629,6 +629,42 @@ top: 3330px;
 left: 900px;
 font-family: 'Courier New', Courier, monospace;}
 
+.white3{padding: 0.7px 700px;
+  background-color: #70403d;
+  position: absolute;
+  top: 3800px;
+  left: 140px;}
+
+.image98{position: absolute;
+top: 4090px;
+left: 800px;}
+
+.text155{position: absolute;
+  top:3900px;
+  left: 50px;
+  text-transform: uppercase;
+  font-size: 30px;}
+
+  .red4{padding: 2px 100px;
+    background-color: #b12a2a;
+    position: absolute;
+    top: 4020px;
+    left:50px;}
+
+.text156{position: absolute;
+top:4050px;
+left: 50px;
+font-weight: bolder;
+}
+
+.text157{position:absolute;
+top: 4090px;
+left: 50px;
+font-family: 'Courier New', Courier, monospace;}
+
+  
+
+
 
 
 

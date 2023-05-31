@@ -567,8 +567,119 @@ font-size: 23px;
 .text150{position: absolute;
     top: 1470px;
     left: 1330px;}
+
+    .white1{padding: 0.7px 700px;
+      background-color: #70403d;
+      position: absolute;
+      top: 2200px;
+      left: 140px;}
   
-  
+    .image96{position: absolute;
+      top: 2390px;
+      left: 800px;}
+      
+      .text151{position: absolute;
+      top:2250px;
+      left: 50px;
+      text-transform: uppercase;
+      font-size: 30px;}
+      
+      .red2{padding: 2px 100px;
+        background-color: #b12a2a;
+        position: absolute;
+        top: 2360px;
+        left:50px;}
+      
+      .text159{position: absolute;
+      top: 2390px;
+      left: 50px;
+      font-weight: bolder;
+      }
+      
+      .text152{position: absolute;
+      top: 2430px;
+      left: 50px;
+      font-family: 'Courier New', Courier, monospace;}
+      
+      .white2{padding: 0.7px 700px;
+        background-color: #70403d;
+        position: absolute;
+        top: 2980px;
+        left: 140px;}
+      
+      .image97{position: absolute;
+      top: 3240px;
+      left: 100px;
+      }
+      
+      .text153{position: absolute;
+      top: 3090px;
+      left: 900px;
+      text-transform: uppercase;
+      font-size: 20px;}
+
+      .text158{position: absolute;
+        top: 3200px;
+        left: 900px;
+        font-weight: bolder;
+        }
+      
+      .red3{padding: 2px 100px;
+        background-color: #b12a2a;
+        position: absolute;
+        top: 3170px;
+        left:900px;}
+      
+      .text154{position: absolute;
+      top: 3240px;
+      left: 900px;
+      font-family: 'Courier New', Courier, monospace;}
+      
+      .white3{padding: 0.7px 700px;
+        background-color: #70403d;
+        position: absolute;
+        top: 4000px;
+        left: 140px;}
+      
+      .image98{position: absolute;
+      top: 4260px;
+      left: 800px;}
+      
+      .text155{position: absolute;
+        top:4050px;
+        left: 50px;
+        text-transform: uppercase;
+        font-size: 20px;}
+      
+        .red4{padding: 2px 100px;
+          background-color: #b12a2a;
+          position: absolute;
+          top: 4190px;
+          left:50px;}
+      
+      .text156{position: absolute;
+      top:4215px;
+      left: 50px;
+      font-weight: bolder;
+      }
+      
+      .text157{position:absolute;
+      top: 4260px;
+      left: 50px;
+      font-family: 'Courier New', Courier, monospace;}
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      
+      
+              
+          
   
           
     
