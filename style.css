@@ -1408,7 +1408,7 @@ font-size: 23px;}
 
 footer{background-color: #154d91;
 width: 1645px;
-height: 300px;
+height: 340px;
 position: absolute;
 top: 4930px;
 left: 0px;}
@@ -1431,8 +1431,14 @@ position: absolute;
 top: 5050px;
 left: 20px;}
 
-.image90{position: absolute;
-top: ;}
+.image101{position: absolute;
+top:5053px;
+left:-70px;}
+
+.text161{position: absolute;
+top: 5200px;
+left: 10px;
+color:white;}
 
 
 
