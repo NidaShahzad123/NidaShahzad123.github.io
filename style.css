@@ -468,7 +468,7 @@ hr{border-color: #b7b3b388;
                 background:linear-gradient(rgb(182, 103, 103),rgb(210, 120, 120),rgb(185, 213, 237));;
                 }
 .image16{position: absolute;
-top: 98px;}
+top: 78px;}
 
 
 .hover{position:relative;
@@ -1436,9 +1436,15 @@ top:5053px;
 left:-70px;}
 
 .text161{position: absolute;
-top: 5200px;
+top: 5205px;
 left: 10px;
 color:white;}
+
+.text163{position: absolute;
+top: 5070px;
+left: 170px;
+color: white;
+font-size: 25px;}
 
 
 
