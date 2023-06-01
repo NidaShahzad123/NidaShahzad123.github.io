@@ -483,6 +483,104 @@ position: absolute;
 top: 115px;
 left: 850px;
 font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+.button{background-color: rgb(54, 124, 209);
+  padding: 10px;
+  padding-top: 1px;
+  color: #ffffff;
+  font-size: 17px;
+  border:0;
+  cursor: pointer;
+  border-radius: 30px;
+  width: 100px;
+  height: 25px;
+  position: absolute;
+  top: 63px;
+  left: 1280px;}
+
+   .button:hover {
+     cursor: pointer;
+    background:linear-gradient(rgb(182, 103, 103),rgb(210, 120, 120),rgb(185, 213, 237));;
+    }
+.image16{position: absolute;
+top: 78px;}
+
+
+.hover{position:relative;
+top:-45px;}
+
+
+.search-container{height: 100vh;
+margin-inline: 1.5rem;
+display: grid;
+position: absolute;
+top: 44px;
+left: 1382px;}
+
+.search-box{position: relative;
+width: 40px;
+height: 40px;
+background-color: rgb(255, 255, 255);
+box-shadow: 0 4px 24px hsla(222, 68%, 12% .1);
+border-radius: 4rem;
+padding: 10px;
+overflow: hidden;
+transition: width .5s cubic-bezier(.9, 0, .3, .9);}
+
+.flex-input{border: none;
+outline: none;
+width: calc(100%- 64px);
+height: 100%;
+border-radius: 4rem;
+padding-left: 14px;
+font-family: var(--body-font);
+font-size: small;
+font-weight: 500;
+opacity: 0;
+pointer-events: none;
+transition: opacity 1.5s;}
+
+.flex-input:-webkit-autofill{box-shadow: 0 0 0 100% var(--white-color) inset;}
+
+.button-element{width: 40px;
+height: 40px;
+background:linear-gradient(rgb(216, 34, 34),rgb(210, 120, 120),rgb(145, 184, 219));
+border-radius: 50%;
+position: absolute;
+top: 0;
+bottom: 0;
+right: 10px;
+margin: auto;
+display:grid;
+place-items: center;
+cursor: pointer;
+transition: transform .6s cubic-bezier(.9, 0, .3, .9);}
+
+.icon-element,.close-element{color: white;
+font-size: 1.5rem;
+position: absolute;
+transition: opacity .5s cubic-bezier(.9, 0, .3, .9);}
+
+.close-element{opacity: 0;}
+
+.show-search{width: 50%;}
+
+.show-search .flex-input{opacity: 1;
+pointer-events: initial;}
+
+.show-search .button-element{transform: rotate(90deg);}
+
+.show-search .icon-element{opacity: 0;
+}
+
+.show-search .close-element{opacity: 1;}
+
+@media screen and (min-width: 576px){
+.show-search{
+width: 220px;
+}
+}
+
         
 .text27:hover{border-radius: 25px;
 background-color: rgb(237, 240, 243);
