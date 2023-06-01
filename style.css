@@ -552,7 +552,8 @@ canvas {padding: -90px;
   margin: -17px;
   background-image: url(https://cdn.mos.cms.futurecdn.net/YSndfj68MyJVwqAXR2uGwh-1200-80.jpg); 
   width: 100%;
-  background-position: 0% -171%;
+  height:100%;
+  background-position: 0% -160%;
   background-repeat: no-repeat;
   background-size: cover;
   display: block;
@@ -566,8 +567,8 @@ canvas {padding: -90px;
 
 .image17{ background-image: linear-gradient(to top,200deg,rgb(0, 0, 0),transprent);
   position: absolute;
-top: 820px;
-left: 0px;}
+  top: 720px;
+  left: 0px;}
 
 
 .image18{position: absolute;
