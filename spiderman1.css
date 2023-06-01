@@ -10,6 +10,7 @@
 
 .hover{position: relative;
 top: -30px;}
+
   
   ul li {display: inline-block;
          margin-right: 15px;
@@ -455,7 +456,7 @@ top: -30px;}
         -webkit-text-fill-color: #000000;
         position: absolute;
         top: 115px;
-        left: 600px;
+        left: 500px;
         font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
         
         .text25:hover{border-radius: 25px;
@@ -467,7 +468,7 @@ top: -30px;}
           -webkit-text-fill-color: #000000;
           position: absolute;
           top: 115px;
-          left: 700px;
+          left: 600px;
           font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
         
           .text26:hover{border-radius: 25px;
@@ -478,7 +479,7 @@ top: -30px;}
           -webkit-text-fill-color: #000000;
           position: absolute;
           top: 115px;
-          left: 955px;
+          left: 845px;
           font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
         
         .text27:hover{border-radius: 25px;
@@ -489,7 +490,7 @@ top: -30px;}
           -webkit-text-fill-color: #000000;
           position: absolute;
           top: 115px;
-          left: 1115px;
+          left: 1005px;
           font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         }
         .text28:hover{border-radius: 25px;
@@ -549,7 +550,7 @@ transition: 0.5s;
 }
 
 .img4{position: absolute;
-left: 100px;
+left: 80px;
 top: 1000px;}
 
 .img4 .hover4 .faceeee.face6 .content5{position:relative;
@@ -646,7 +647,7 @@ transition: 0.5s;
 }
 
 .img5{position: absolute;
-left: 650px;
+left: 580px;
 top: 1000px;}
 
 .img5 .hover5 .faceeeee.face7 .content6{position:relative;
@@ -743,7 +744,7 @@ transform: translateY(-100px) ;}
   }
   
   .img6{position: absolute;
-  left: 1190px;
+  left: 1080px;
   top: 1000px;}
   
   .img6 .hover6 .faceeeeee.face8 .content7{position:relative;
@@ -812,20 +813,20 @@ left: 0px;}
 
 .text62{position: absolute;
 top: 1500px;
-left: 750px;
+left: 700px;
 color: white;
 font-size: 20px;}
 
 .text63{position: absolute;
 top: 1520px;
-left: 510px;
+left: 480px;
 font-size: 45px;
 color: white;}
 
 .text64{
   position: absolute;
   top: 1620px;
-  left: 200px;
+  left: 90px;
   font-size: 30px;
   color: #afafaf;}
   
@@ -848,7 +849,7 @@ transition-duration: 0.3s;
 transition-property: box-shadow, transform;
 position: absolute;
 top: 1800px;
-left: 700px;
+left: 650px;
 
 }
 
@@ -858,74 +859,75 @@ transform: scale(1.1);}
 
 .video{position: absolute;
 top: 1900px;
-left: 500px;}
+left: 450px;}
 
 .text65{position: absolute;
-left: 695px;
+left: 635px;
 top: 2400px;
 font-size: 40px;
 color: white;}
 
 .image47 {position: absolute;
 top: 2550px;
-left:70px;}
+left:50px;}
 
 .text66 {position: absolute;
 top: 2800px;
-left: 100px;
+left: 55px;
 font-size: 25px;
 color: #ffffff;}
 
 .text69{position: absolute;
   top: 2880px;
-  left: 50px ;
+  left:  40px ;
   color: white;
   font-size: 15px;
   font-family:'Courier New', Courier, monospace;}
 
 .image48{position: absolute;
   top: 2550px;
-  left: 584px;}
+  left: 530px;}
 
 .text67{position: absolute;
   top: 2800px;
-  left: 630px;
+  left: 620px;
   color: #ffffff;
   font-size: 25px;}
 
 .text70{position: absolute;
   top: 2880px;
-  left: 620px ;
+  left: 580px ;
   color: white;
   font-size: 15px;
-  font-family:'Courier New', Courier, monospace;}
+  font-family:'Courier New', Courier, monospace;
+ width: 490px;}
 
 .image49{position: absolute;
   top: 2550px;
-  left: 1100px;}
+  left: 1010px;}
 
 .text68{position: absolute;
   top: 2800px;
-  left: 1200px;
+  left: 1150px;
   color: #ffffff;
   font-size:25px;}
 
 .text71{position: absolute;
   top: 2880px;
-  left: 1160px ;
+  left: 1100px ;
   color: white;
   font-size: 15px;
   font-family:'Courier New', Courier, monospace;}
 
 .text72{position: absolute;
 top: 3090px;
-left:600px;
+left:540px;
 color: white;
 font-size: 36px;}
 
 .text73{position: absolute;
 top: 3250px;
-left: 410px;
+left: 370px;
 color: white;
 font-family:'Courier New', Courier, monospace;}
 
@@ -936,7 +938,7 @@ font-family:'Courier New', Courier, monospace;}
   perspective: 800px;
   position: absolute;
   top: 3400px;
-  left: 400px ;
+  left: 370px ;
 }
 
 .picture:hover > .effect {
@@ -989,7 +991,7 @@ top: 100px;}
   perspective: 800px;
   position: absolute;
   top: 3400px;
-  left: 625px ;
+  left: 580px ;
 }
 
 .picture1:hover > .effect1 {
@@ -1043,7 +1045,7 @@ top: 100px;}
   perspective: 800px;
   position: absolute;
   top: 3400px;
-  left: 850px ;
+  left: 790px ;
 }
 
 .picture2:hover > .effect2 {
@@ -1096,7 +1098,7 @@ top: 100px;}
   perspective: 800px;
   position: absolute;
   top: 3400px;
-  left: 1075px ;
+  left: 1000px ;
 }
 
 .picture3:hover > .effect3 {
@@ -1162,7 +1164,7 @@ top: 100px;}
   transition-property: box-shadow, transform;
   position: absolute;
   top: 3900px;
-  left: 700px;
+  left: 650px;
   
   }
   
@@ -1171,8 +1173,8 @@ top: 100px;}
   transform: scale(1.1);}
 
   .image54{position:absolute;
-   top:4060px;
-   left: 700px;}
+   top:4020px;
+   left: 650px;}
 
 
 
@@ -1183,19 +1185,19 @@ top: 100px;}
 
   .text82{position: absolute;
     top: 4260px;
-    left: 750px;
+    left: 700px;
     color: white;
     font-size: 20px;}
 
   .text83{position: absolute;
     top: 4290px;
-    left: 510px;
+    left: 480px;
     font-size: 45px;
     color: white;}
 
 .text84{position: absolute;
   top: 4400px;
-  left: 200px;
+  left: 90px;
   font-size: 30px;
   color: #afafaf;}
 
@@ -1218,7 +1220,7 @@ top: 100px;}
     transition-property: box-shadow, transform;
     position: absolute;
     top: 4595px;
-    left: 700px;
+    left: 650px;
     
     }
     
@@ -1228,73 +1230,73 @@ top: 100px;}
 
     .video1{position: absolute;
       top: 4690px;
-      left: 500px;}
+      left: 450px;}
 
     .text85{position: absolute;
-      left: 670px;
+      left: 635px;
       top: 5200px;
       font-size: 40px;
       color: white;}
 
       .image51{position: absolute;
         top: 5350px;
-        left:70px;}
+        left:50px;}
 
     .text86{position: absolute;
         top: 5600px;
-        left: 150px;
+        left: 55px;
         font-size: 25px;
         color: #ffffff;}
 
   .text89{position: absolute;
     top: 5680px;
-    left: 90px ;
+    left: 40px ;
     color: white;
     font-size: 15px;
     font-family:'Courier New', Courier, monospace;}
 
   .image52{position: absolute;
     top: 5350px;
-    left: 584px;}
+    left: 530px;}
 
   .text87{position: absolute;
     top: 5600px;
-    left: 630px;
+    left: 620px;
     color: #ffffff;
     font-size: 25px;}
 
   .text90{position: absolute;
     top: 5680px;
-    left: 620px ;
+    left: 580px ;
     color: white;
     font-size: 15px;
     font-family:'Courier New', Courier, monospace;}
 
     .image53{position: absolute;
       top: 5350px;
-      left: 1100px;}
+      left: 1010px;}
 
   .text88{position: absolute;
     top: 5600px;
-    left: 1200px;
+    left: 1110px;
     color: #ffffff;
     font-size:25px;}
 
   .text91{position: absolute;
     top: 5680px;
-    left: 1160px ;
+    left: 1100px ;
     color: white;
     font-size: 15px;
     font-family:'Courier New', Courier, monospace;}
 
   .text92{position: absolute;
     top: 5950px;
-    left:600px;
+    left:540px;
     color: white;
     font-size: 36px;}
 
 .text93{position: absolute;
-  top: 6100px;
+  top: 6147px;
   left: 200px;
   color: white;
   font-family:'Courier New', Courier, monospace;}
@@ -1359,7 +1361,7 @@ top: 100px;}
     perspective: 800px;
     position: absolute;
     top: 6300px;
-    left: 625px ;}
+    left: 610px ;}
   
   .picture5:hover > .effect5{
     cursor: pointer;
@@ -1411,7 +1413,7 @@ top: 100px;}
     perspective: 800px;
     position: absolute;
     top: 6300px;
-    left: 850px ;
+    left: 820px ;
   }
   
   .picture6:hover > .effect6{
@@ -1465,7 +1467,7 @@ top: 100px;}
     perspective: 800px;
     position: absolute;
     top: 6300px;
-    left: 1075px ;
+    left: 1030px ;
   }
   
   .picture7:hover > .effect7 {
@@ -1532,7 +1534,7 @@ top: 100px;}
     transition-property: box-shadow, transform;
     position: absolute;
     top: 6700px;
-    left: 700px;
+    left: 650px;
     
     }
     
@@ -1543,7 +1545,7 @@ top: 100px;}
 
   .image55{position:absolute;
    top:6820px;
-   left: 700px;}
+   left: 650px;}
 
 
   .image56{position: absolute;
@@ -1552,19 +1554,19 @@ top: 100px;}
 
   .text103{position: absolute;
     top: 7020px;
-    left: 750px;
+    left: 480px;
     color: rgb(48, 48, 48);
     font-size: 20px;}
 
  .text104{position: absolute;
   top: 7050px;
-  left: 510px;
+  left: 480px;
   font-size: 45px;
   color: rgb(48, 48, 48);}
 
 .text105{position: absolute;
   top: 7170px;
-  left: 200px;
+  left: 90px;
   font-size: 30px;
   color: rgb(48, 48, 48);
 }
@@ -1587,8 +1589,8 @@ top: 100px;}
   -webkit-transition-property: box-shadow, transform;
   transition-property: box-shadow, transform;
   position: absolute;
-  top: 7480px;
-  left: 700px;
+  top: 7490px;
+  left: 650px;
   
   }
   
@@ -1599,68 +1601,68 @@ top: 100px;}
 
 .video2{position: absolute;
   top: 7600px;
-  left: 500px;}
+  left: 450px;}
 
 .text106{position: absolute;
-  left: 670px;
+  left: 635px;
   top: 8100px;
   font-size: 40px;
   color:rgb(48, 48, 48);}
 
 .image57{position: absolute;
   top: 8300px;
-  left:70px;}
+  left:50px;}
 
 .text107{position: absolute;
   top: 8550px;
-  left: 150px;
+  left: 55px;
   font-size: 25px;
   color: rgb(48, 48, 48);}
 
 .text110{position: absolute;
   top: 8600px;
-  left: 60px ;
+  left: 50px ;
   color: rgb(48, 48, 48);
   font-size: 15px;
   font-family:'Courier New', Courier, monospace;}
 
 .image58{position: absolute;
   top: 8300px;
-  left: 584px;}
+  left: 530px;}
 
 .text108{position: absolute;
   top: 8550px;
-  left: 630px;
+  left: 600px;
   color:rgb(48, 48, 48);
   font-size: 25px;}
 
 .text111{position: absolute;
   top: 8600px;
-  left: 580px ;
+  left: 500px ;
   color: rgb(48, 48, 48);
   font-size: 15px;
   font-family:'Courier New', Courier, monospace;}
 
 .image59{position: absolute;
   top: 8300px;
-  left: 1100px;}
+  left: 1010px;}
 
 .text109{position: absolute;
   top: 8550px;
-  left: 1150px;
+  left: 1090px;
   color: rgb(48, 48, 48);
   font-size:25px;}
 
 .text112{position: absolute;
   top: 8600px;
-  left: 1140px ;
+  left: 1090px ;
   color: rgb(48, 48, 48);
   font-size: 15px;
   font-family:'Courier New', Courier, monospace;}
 
 .text113{position: absolute;
   top: 8790px;
-  left:510px;
+  left:540px;
   color:rgb(48, 48, 48);
   font-size: 36px;}
 
@@ -1728,7 +1730,7 @@ top: 100px;}
     perspective: 800px;
     position: absolute;
     top: 9100px;
-    left: 625px ;}
+    left: 610px ;}
   
   .picture9:hover > .effect9{
     cursor: pointer;
@@ -1780,7 +1782,7 @@ top: 100px;}
     perspective: 800px;
     position: absolute;
     top: 9100px;
-    left: 850px ;
+    left: 820px ;
   }
   
   .picture10:hover > .effect10{
@@ -1834,7 +1836,7 @@ top: 100px;}
     perspective: 800px;
     position: absolute;
     top: 9100px;
-    left: 1075px ;
+    left: 1030px ;
   }
   
   .picture11:hover > .effect11 {
@@ -1900,7 +1902,7 @@ top: 100px;}
     transition-property: box-shadow, transform;
     position: absolute;
     top: 9470px;
-    left: 700px;
+    left: 650px;
     
     }
     
@@ -1910,7 +1912,7 @@ top: 100px;}
 
     .image60{position:absolute;
       top:9570px;
-      left: 700px;}
+      left: 650px;}
 
 
    

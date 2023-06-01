@@ -8,6 +8,9 @@
    top: -10px;
    left: 20px;}
 
+.headings{
+left: 50px;}
+
 .hover{position: relative;
 top: -30px;}
   
@@ -486,7 +489,7 @@ background-color: rgb(237, 240, 243);
 position: absolute;}
       
  .image90{position: absolute;
-top: 45px;}
+top: 35px;}
             
 .image91{position: absolute;
 top: 190px;
@@ -494,93 +497,93 @@ left: 0px;}
 
 .image92{position: absolute;
 top: 300px;
-left: 200px;}
+left: 150px;}
           
 .image93{position: absolute;
 top: 600px;
-left: 100px;}
+left: 50px;}
                 
 .text143{position: absolute;
 top: 600px;
-left: 900px;
+left: 840px;
 font-size: 23px;
  text-transform: uppercase;}
                 
  .text144{position: absolute;
  top: 700px;
- left: 900px;
+ left: 840px;
  font-family: 'Courier New', Courier, monospace;}
 
 .white{padding: 0.7px 700px;
   background-color: #70403d;
   position: absolute;
   top: 1050px;
-  left: 140px;}
+  left: 50px;}
 
 .image94{position: absolute;
   top: 1250px;
-  left: 100px;}
+  left: 50px;}
   
 .text145{position: absolute;
   top: 1250px;
-  left: 520px;
+  left: 440px;
   font-size: 30px;}
   
 .red{padding: 2px 60px;
   background-color: #b12a2a;
   position: absolute;
   top: 1400px;
-  left:540px;}
+  left:450px;}
   
 .text146{
   font-size: 15px;
   position: absolute;
   top: 1410px;
-  left:530px;}
+  left:450px;}
   
 .text147{position: absolute;
   top: 1470px;
-  left: 530px;
+  left: 450px;
   }
   
 .image95{position: absolute;
   top: 1250px;
-  left:900px;}
+  left:800px;}
   
 .text148{position: absolute;
     top: 1250px;
-    left: 1330px;
+    left: 1200px;
     font-size: 25px;}
   
 .red1{padding: 2px 60px;
       background-color: #b12a2a;
       position: absolute;
       top: 1400px;
-      left:1330px;}
+      left:1200px;}
   
 .text149{font-weight: bolder;
     font-size: 15px;
     position: absolute;
     top: 1410px;
-    left:1330px;}
+    left:1200px;}
   
 .text150{position: absolute;
     top: 1470px;
-    left: 1330px;}
+    left: 1200px;}
 
     .white1{padding: 0.7px 700px;
       background-color: #70403d;
       position: absolute;
       top: 2200px;
-      left: 140px;}
+      left: 50px;}
   
     .image96{position: absolute;
       top: 2390px;
-      left: 800px;}
+      left: 730px;}
       
       .text151{position: absolute;
       top:2250px;
-      left: 50px;
+      left: 30px;
       text-transform: uppercase;
       font-size: 30px;}
       
@@ -588,7 +591,7 @@ font-size: 23px;
         background-color: #b12a2a;
         position: absolute;
         top: 2360px;
-        left:50px;}
+        left:30px;}
       
       .text159{position: absolute;
       top: 2390px;
@@ -598,29 +601,29 @@ font-size: 23px;
       
       .text152{position: absolute;
       top: 2430px;
-      left: 50px;
+      left: 30px;
       font-family: 'Courier New', Courier, monospace;}
       
       .white2{padding: 0.7px 700px;
         background-color: #70403d;
         position: absolute;
         top: 2980px;
-        left: 140px;}
+        left: 50px;}
       
       .image97{position: absolute;
       top: 3240px;
-      left: 100px;
+      left: 50px;
       }
       
       .text153{position: absolute;
       top: 3090px;
-      left: 900px;
+      left: 850px;
       text-transform: uppercase;
       font-size: 20px;}
 
       .text158{position: absolute;
         top: 3200px;
-        left: 900px;
+        left: 850px;
         font-weight: bolder;
         }
       
@@ -628,26 +631,26 @@ font-size: 23px;
         background-color: #b12a2a;
         position: absolute;
         top: 3170px;
-        left:900px;}
+        left:850px;}
       
       .text154{position: absolute;
       top: 3240px;
-      left: 900px;
+      left: 850px;
       font-family: 'Courier New', Courier, monospace;}
       
       .white3{padding: 0.7px 700px;
         background-color: #70403d;
         position: absolute;
         top: 4000px;
-        left: 140px;}
+        left: 50px;}
       
       .image98{position: absolute;
       top: 4260px;
-      left: 800px;}
+      left: 750px;}
       
       .text155{position: absolute;
         top:4050px;
-        left: 50px;
+        left: 30px;
         text-transform: uppercase;
         font-size: 20px;}
       
@@ -655,17 +658,17 @@ font-size: 23px;
           background-color: #b12a2a;
           position: absolute;
           top: 4190px;
-          left:50px;}
+          left:30px;}
       
       .text156{position: absolute;
       top:4215px;
-      left: 50px;
+      left: 30px;
       font-weight: bolder;
       }
       
       .text157{position:absolute;
       top: 4260px;
-      left: 50px;
+      left: 30px;
       font-family: 'Courier New', Courier, monospace;}
       
         
